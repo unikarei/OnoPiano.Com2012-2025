@@ -1,0 +1,814 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ja">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<!--
+<meta name="小野 ピアノ教室 水戸" content="水戸の偕楽園近くの、ピアノ教室です。教室入会をご希望の方や検討している方はお気軽にご相談ください。">
+-->
+<meta name="description" content="小野ピアノ教室｜茨城県水戸市にある小野ピアノ教室の個人レッスン内容と生徒さんからの声・評判">
+<meta name="keywords" content="小野,ピアノ教室,水戸,茨城,大人,子供,コース,時間,発表会,料金">
+<META http-equiv="Content-Style-Type" content="text/css">
+<META name="GENERATOR" content="IBM WebSphere Studio Homepage Builder Version 13.0.0.0 for Windows">
+<title>レッスン｜小野　ピアノ教室　水戸</title>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--HPB_SCRIPT_ROV_50
+//
+//  Licensed Materials - Property of IBM
+//  5724I83
+//  (C) Copyright IBM Corp. 1995, 2007 All Rights Reserved.
+//
+
+// HpbImgPreload:
+//
+function HpbImgPreload()
+{
+var appVer=parseInt(navigator.appVersion);
+var isNC=false,isN6=false,isIE=false;
+if (document.all && appVer >= 4) isIE=true; else
+if (document.getElementById && appVer > 4) isN6=true; else
+if (document.layers && appVer >= 4) isNC=true;
+if (isNC||isN6||isIE)
+{
+if (document.images)
+{
+var imgName = HpbImgPreload.arguments[0];
+var cnt;
+swImg[imgName] = new Array;
+for (cnt = 1; cnt < HpbImgPreload.arguments.length; cnt++)
+{
+swImg[imgName][HpbImgPreload.arguments[cnt]] = new Image();
+swImg[imgName][HpbImgPreload.arguments[cnt]].src = HpbImgPreload.arguments[cnt];
+}
+}
+}
+}
+// HpbImgFind:
+//
+function HpbImgFind(doc, imgName)
+{
+for (var i=0; i < doc.layers.length; i++)
+{
+var img = doc.layers[i].document.images[imgName];
+if (!img) img = HpbImgFind(doc.layers[i], imgName);
+if (img) return img;
+}
+return null;
+}
+// HpbImgSwap:
+//
+function HpbImgSwap(imgName, imgSrc)
+{
+var appVer=parseInt(navigator.appVersion);
+var isNC=false,isN6=false,isIE=false;
+if (document.all && appVer >= 4) isIE=true; else
+if (document.getElementById && appVer > 4) isN6=true; else
+if (document.layers && appVer >= 4) isNC=true;
+if (isNC||isN6||isIE)
+{
+if (document.images)
+{
+var img = document.images[imgName];
+if (!img) img = HpbImgFind(document, imgName);
+if (img) img.src = imgSrc;
+}
+}
+}
+var swImg; swImg=new Array;
+//-->
+</script><script language="JavaScript">
+<!--HPB_SCRIPT_PLD_50
+HpbImgPreload('_HPB_ROLLOVER1', 'image/bt_goaisatsu_off.gif', 'image/bt_goaisatsu_on.gif');
+HpbImgPreload('_HPB_ROLLOVER2', 'image/bt_profile_off.gif', 'image/bt_profile_on.gif');
+HpbImgPreload('_HPB_ROLLOVER3', 'image/bt_lesson_off.gif', 'image/bt_lesson_on.gif');
+HpbImgPreload('_HPB_ROLLOVER4', 'image/bt_access_off.gif', 'image/bt_access_on.gif');
+HpbImgPreload('_HPB_ROLLOVER5', 'image/bt_otoiawase_off.gif', 'image/bt_otoiawase_on.gif');
+//-->
+</script></head>
+<BODY>
+<table width="795" height="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr valign="top">
+    <td width="24" background="image/bg_left.gif"><img alt="" src="image/bg_left.gif" width="24" height="32"></td>
+    <td bgcolor="#FFFFFF"><table width="747" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="168" align="center" background="image/bg_title.gif" class="sitetitle"><table width="166" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td valign="top"><a href="index.html"><img src="image/obj_sitetitle01.gif" alt="Homeへ" width="168" height="56" border="0"></a></td>
+          </tr><tr>
+            <td class="sitetitle" height="43" align="center" valign="top" background="image/bg_sitetitle.gif"><a href="index.html"><img src="image/obj_sitetitle02.gif" alt="AWDLP210-017" width="168" height="43" border="0"></a></td>
+          </tr></table></td>
+        <td width="582"><table width="579" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td background="image/obj_head.jpg"><table width="579" height="75" border="0" cellpadding="5" cellspacing="0">
+              <tr>
+                <TD align="center" valign="top"><font color="#FFFFFF" size="1"><br>
+                <B><FONT size="+4" style="font-size : 310%;" face="游明朝 Light" color="#ffffff">小野　ピアノ教室</FONT></B> </font></TD>
+              </tr></table></td>
+          </tr><tr>
+            <td background="image/obj_head_menu.gif"><table border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><A href="goaisatsu.html" id="_HPB_ROLLOVER1" onmouseout="HpbImgSwap('_HPB_ROLLOVER1', 'image/bt_goaisatsu_off.gif');" onmouseover="HpbImgSwap('_HPB_ROLLOVER1', 'image/bt_goaisatsu_on.gif');"><IMG src="image/bt_goaisatsu_off.gif" alt="ご挨拶" width="115" height="24" border="0" name="_HPB_ROLLOVER1"></A></td>
+                <td><img alt="" src="image/bt1p.gif" width="1" height="24"></td>
+                <td><A href="profile.html" id="_HPB_ROLLOVER2" onmouseout="HpbImgSwap('_HPB_ROLLOVER2', 'image/bt_profile_off.gif');" onmouseover="HpbImgSwap('_HPB_ROLLOVER2', 'image/bt_profile_on.gif');"><IMG src="image/bt_profile_off.gif" alt="プロフィール" width="115" height="24" border="0" name="_HPB_ROLLOVER2"></A></td>
+                <td><img alt="" src="image/bt1p.gif" width="1" height="24"></td>
+                <td><A href="lesson.html" id="_HPB_ROLLOVER3" onmouseout="HpbImgSwap('_HPB_ROLLOVER3', 'image/bt_lesson_off.gif');" onmouseover="HpbImgSwap('_HPB_ROLLOVER3', 'image/bt_lesson_on.gif');"><IMG src="image/bt_lesson_off.gif" alt="レッスン" width="115" height="24" border="0" name="_HPB_ROLLOVER3"></A></td>
+                <td><img alt="" src="image/bt1p.gif" width="1" height="24"></td>
+                <td><A href="access.html" id="_HPB_ROLLOVER4" onmouseout="HpbImgSwap('_HPB_ROLLOVER4', 'image/bt_access_off.gif');" onmouseover="HpbImgSwap('_HPB_ROLLOVER4', 'image/bt_access_on.gif');"><IMG src="image/bt_access_off.gif" alt="アクセス" width="115" height="24" border="0" name="_HPB_ROLLOVER4"></A></td>
+                <td><img alt="" src="image/bt1p.gif" width="1" height="24"></td>
+                <td><A href="otoiawase.html" id="_HPB_ROLLOVER5" onmouseout="HpbImgSwap('_HPB_ROLLOVER5', 'image/bt_otoiawase_off.gif');" onmouseover="HpbImgSwap('_HPB_ROLLOVER5', 'image/bt_otoiawase_on.gif');"><IMG src="image/bt_otoiawase_off.gif" alt="お問い合せ" width="115" height="24" border="0" name="_HPB_ROLLOVER5"></A></td>
+              </tr></table></td>
+          </tr></table></td>
+      </tr></table>
+    <TABLE width="790" border="0" cellspacing="0" cellpadding="0">
+      <tr align="center" valign="top">
+        <TD background="image/bg_pink.gif" align="left" width="166" height="4744"><B><BR>
+        ■レッスン<BR>
+        　　<A href="#ピアノ一般コース">ﾋﾟｱﾉ一般ｺｰｽ</A><BR>
+        　　<A href="#ピアノ専門コース">ﾋﾟｱﾉ専門ｺｰｽ</A><BR>
+        　　（音高・音大生、講師）<BR>
+        　　<A href="#ソルフェージュコース">ソルフェージュ<BR>
+        </A>　　<A href="#生徒さんの声">生徒さんの声</A><BR>
+        　　<A href="#発表会・お楽しみ会">発表会・交流会<BR>
+        </A>　　<A href="#コンクール">ｺﾝｸｰﾙ・ｵｰﾃﾞｨｼｮﾝ<BR>
+        </A>　　<A href="#受験生">受験（音高、音大）<BR>
+        </A>　　<A href="#ｸﾞﾚｰﾄﾞ">資格<BR>
+        </A>　　<A href="#指導実績">指導実績</A><BR>
+        <BR>
+        　　<A href="#ｸﾞﾚｰﾄﾞ">（ｸﾞﾚｰﾄﾞ,保育士,教員）<BR>
+        </A>　　<A href="#フランス留学">フランス留学</A> </B><BR>
+        <BR>
+        <IMG src="image/WhiteRose/Gakufu06c.jpg" width="157" height="260" border="0"><BR>
+        </TD>
+        <TD align="left" width="624" height="4744">
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD bgcolor="#fef1f9" width="593"><img alt="水戸・小野ピアノ教室のレッスン、発表会・お楽しみ会、生徒さんの声（評判）などのご紹介" src="image/ba_lesson.gif" width="272" height="52"></TD>
+          </tr></TABLE>
+        <table width="100" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><B><FONT color="#FF6699"><STRONG><IMG alt="" src="image/ba1p.gif" width="560" height="3"><BR>
+            </STRONG></FONT></B>　　　　　　　　　
+            <TABLE border="0" cellspacing="0" cellpadding="0">
+              <TBODY>
+                <TR>
+                  <TD height="37" width="307"><h2><FONT color="#ff6699">水戸教室</FONT></h2></TD>
+                  <TD height="37" width="252" align="right"><A href="image/img-yasu2018.jpg"><IMG src="image/lesson-img2018-2r.jpg" width="79" height="91" border="0"></A><B><FONT color="#FF6699"><STRONG><A href="image/img-yasu2018.jpg"><IMG src="image/s-img-yasu2018.jpg" width="123" height="92" border="0"><BR>
+                  </A></STRONG></FONT></B></TD>
+                </TR>
+              </TBODY>
+            </TABLE>
+            <B><FONT color="#FF6699"><STRONG><IMG alt="" src="image/ba1p.gif" width="560" height="3"><BR>
+            </STRONG></FONT></B>
+            <TABLE width="560" border="0" cellspacing="0" cellpadding="0">
+              <TBODY>
+                <TR>
+                  <TD><FONT color="#FF6699"><STRONG>　</STRONG></FONT></TD>
+                </TR>
+              </TBODY>
+            </TABLE>
+            </td>
+          </tr></table>
+        　　　　　　
+        <table width="560" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD height="37" width="307" valign="middle">
+            <h3><FONT color="#ff6699"><IMG alt="" src="image/ba1p.gif" width="560" height="3" align="middle"><A name="ピアノ一般コース" id="ピアノ一般コース">ピアノ一般コース</A><BR>
+            <IMG alt="" src="image/ba1p.gif" width="560" height="3"></FONT></h3>
+            </TD>
+          </tr></table>
+        <B><STRONG>　<BR>
+        　これからピアノを習いたい方やピアノのテクニック・音楽性を伸ばしたい方を対象としております。<BR>
+        </STRONG></B>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD width="561"><B><STRONG>　　</STRONG></B>
+            <TABLE border="0" cellspacing="0" cellpadding="0">
+              <TBODY>
+                <TR>
+                  <TD width="15" height="16"></TD>
+                  <TD width="120" style="vertical-align : super;" height="16"><B><STRONG>☆時間</STRONG></B></TD>
+                  <TD width="546" style="vertical-align : super;" height="16"><B><STRONG>30分～60分　（相談の上）　</STRONG></B></TD>
+                </TR>
+                <TR>
+                  <TD width="15" height="13"></TD>
+                  <TD width="120" style="vertical-align : super;" height="13"><B><STRONG>☆曜日</STRONG></B></TD>
+                  <TD width="546" style="vertical-align : super;" height="13"><B><STRONG>月曜～日曜</STRONG></B></TD>
+                </TR>
+              </TBODY>
+            </TABLE>
+            <TABLE border="0" cellspacing="0" cellpadding="0">
+              <TBODY>
+                <TR>
+                  <TD width="15" height="16"></TD>
+                  <TD width="120" style="vertical-align : super;" height="16"><B><STRONG>☆回数・料金</STRONG></B></TD>
+                  <TD width="546" style="vertical-align : super;" height="16"><B><STRONG>★入会金：いただいておりません！<BR>
+                  ★年間コース：<BR>
+                  　（定期レッスン＋発表会+クリスマス会）<BR>
+                  　　　　　　　　 30分レッスン　月謝 6600円～<BR>
+                  　　　　　　　　 45分レッスン　月謝13200円～<BR>
+                  　年齢・レベルにより、異なりますので<BR>
+                  　メール、またはお電話でお問い合わせ下さい。　　</STRONG></B></TD>
+                </TR>
+              </TBODY>
+            </TABLE>
+            </TD>
+          </tr></TABLE>
+        <B><STRONG><BR>
+        </STRONG></B>
+        <TABLE border="0" cellspacing="0" cellpadding="0" width="561">
+          <TBODY>
+            <TR>
+              <TD width="530"><B><STRONG>★</STRONG><A name="ご父兄様"><STRONG>ピアノ教室をご検討のご父兄様</STRONG></A></B></TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <TABLE width="100" border="0" cellspacing="0" cellpadding="0">
+          <TBODY>
+            <TR>
+              <TD>
+              <TABLE border="0" cellspacing="0" cellpadding="0">
+                <TBODY>
+                  <TR>
+                    <TD height="37" width="18"><B><STRONG><BR>
+                    </STRONG></B></TD>
+                    <TD height="37" align="left" width="541"><IMG src="image/2-piano.JPG" width="136" height="139" border="0" hspace="5" vspace="5" align="right" alt="test"><B><STRONG>お子様に、ピアノを弾く楽しみを与えてみては、いかがですか？幼少期から、大学でピアノの専門知識を学んだ講師が、お子様1人1人の個性に合わせてアドバイス致します。
+                    そして幼稚園児をおもちのご父兄様は、ぜひこの時期に、お子様に、音楽の基本であるピアノに触れることをお勧めします。幼稚園～小学低学年くらいまでに、講師の適切な指導により、絶対音感の基礎能力が身につきます。この能力は、一度聴いた音を耳コピーで再現できる、複雑な和声の聞き取りができる
+                    といった能力に繋がります。この能力は、環境と指導により、音楽的才能として開花していきます。この絶対音感は、幼少期にしか、身につくことのできない能力なのです。
+                    当教室は、ピアノと並行して、時間の許す限り、歌、音当て、聴奏などと、ワークドリルも指導していますので、自然に、ソルフェージュ、音感、楽典、読譜能力が身についています。
+                    何気なく始めたピアノレッスンが数年後には、ピアニストやピアノの先生、学校の音楽の先生になりたいというお子様の将来の夢に変わっている生徒さんも数多くいらっしゃいます。
+                    この教室で先生との出会いによって、ピアノが将来の夢や希望に繋がっていることは、指導者として嬉しい限りです。</STRONG></B></TD>
+                  </TR>
+                </TBODY>
+              </TABLE>
+              <B><FONT color="#FF6699"><STRONG><IMG alt="" src="image/ba1p_white.jpg" width="560" height="3"></STRONG></FONT></B></TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <TBODY>
+            <TR>
+              <TD width="530"><B><STRONG>★趣味で習いたい方へ</STRONG></B></TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <TABLE width="100" border="0" cellspacing="0" cellpadding="0">
+          <TBODY>
+            <TR>
+              <TD>
+              <TABLE border="0" cellspacing="0" cellpadding="0">
+                <TBODY>
+                  <TR>
+                    <TD height="37" width="18"><B><STRONG><BR>
+                    </STRONG></B></TD>
+                    <TD height="37" align="left" width="541"><B><STRONG>あこがれの一曲が弾きたい、純粋にピアノが弾きたい気持ちを応援します。日常生活の中に、ピアノという心の潤いを取り入れてみては、いかがですか？</STRONG></B></TD>
+                  </TR>
+                </TBODY>
+              </TABLE>
+              <B><FONT color="#FF6699"><STRONG><IMG alt="" src="image/ba1p_white.jpg" width="560" height="3"></STRONG></FONT></B></TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <TBODY>
+            <TR>
+              <TD width="530"><B><STRONG>★幼稚園、保育園、小学校関係者へ</STRONG></B></TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <TBODY>
+            <TR>
+              <TD height="37" width="18"><B><STRONG><BR>
+              </STRONG></B></TD>
+              <TD height="37" align="left" width="541"><B><STRONG>学校カリキュラムに、リトミックや歌、ピアニカ(ピアノ)の授業を取り入れてみませんか？3人以上生徒さんが集まれば、出張レッスンにも対応致します。感性豊かな幼少期からの音楽的環境で、子供の無限の可能性の扉を開くことでしょう。</STRONG></B></TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <B><STRONG><BR>
+        </STRONG></B>　　　　　　
+        <TABLE width="560" border="0" cellspacing="0" cellpadding="0">
+          <TBODY>
+            <TR>
+              <TD height="37" width="307"><h3><FONT color="#ff6699"><IMG alt="" src="image/ba1p.gif" width="560" height="3"><A name="ピアノ専門コース" id="ピアノ専門コース">ピアノ専門コース</A></FONT><BR>
+              <IMG alt="" src="image/ba1p.gif" width="560" height="3"></h3></TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <B><STRONG>　コンクール・ｵｰﾃﾞｨｼｮﾝ・音高、音大受験希望者・ソルフェージュ・ｸﾞﾚｰﾄﾞ取得・<BR>
+        　音楽講師・音楽留学希望者・保育士を志望の方を対象としております。<BR>
+        </STRONG></B>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD width="561"><B><STRONG>　　</STRONG></B>
+            <TABLE border="0" cellspacing="0" cellpadding="0">
+              <TBODY>
+                <TR>
+                  <TD width="15" height="16"></TD>
+                  <TD width="120" style="vertical-align : super;" height="16"><B><STRONG>☆時間</STRONG></B></TD>
+                  <TD width="546" style="vertical-align : super;" height="16"><B><STRONG>30分～９0分　（相談の上）　</STRONG></B></TD>
+                </TR>
+                <TR>
+                  <TD width="15" height="13"></TD>
+                  <TD width="120" style="vertical-align : super;" height="13"><B><STRONG>☆曜日</STRONG></B></TD>
+                  <TD width="546" style="vertical-align : super;" height="13"><B><STRONG>月曜～日曜</STRONG></B></TD>
+                </TR>
+              </TBODY>
+            </TABLE>
+            <TABLE border="0" cellspacing="0" cellpadding="0">
+              <TBODY>
+                <TR>
+                  <TD width="15" height="16"></TD>
+                  <TD width="120" style="vertical-align : super;" height="16"><B><STRONG>☆回数・料金</STRONG></B></TD>
+                  <TD width="546" style="vertical-align : super;" height="16"><B><STRONG>★入会金：いただいておりません<BR>
+                  ★年間コース：<BR>
+                  　 （定期レスン＋発表会＋クリスマス会）<BR>
+                  　30分レッスン　月謝 8800円～<BR>
+                  　45分レッスン　月謝13200円～<BR>
+                  　60分レッスン　月謝17600円～<BR>
+                  　　　<BR>
+                  　ソルフェージュ〔聴音（単旋律・複旋律・四声体）・楽典・視唱・視奏・<BR>
+                  　変奏・伴奏付け等〕<BR>
+                  　　　　　　　　　　月謝　8800円～<BR>
+                  　年齢・レベルにより、異なりますので<BR>　メール、またはお電話でお問い合わせ下さい。<BR>
+                  </STRONG></B></TD>
+                </TR>
+              </TBODY>
+            </TABLE>
+            </TD>
+          </tr></TABLE>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD width="561">
+            <TABLE border="0" cellspacing="0" cellpadding="0">
+              <TBODY>
+                <TR>
+                  <TD width="15" height="103"></TD>
+                  <TD width="120" style="vertical-align : top;" align="center" valign="top" height="103"><B><STRONG><BR>
+                  ★受験生<BR>
+                  ★音大生<A name="受験生"></A></STRONG></B></TD>
+                  <TD width="546" style="vertical-align : super;" height="103"><B><STRONG><BR>
+                  現在、数名の音大受験生、音大生の指導を行っています。受験生には、志望校の傾向と対策をもとに、受験に必要な専門実技(ピアノ)聴音(単旋律、複線律、和声体)視唱(コンコーネ、コールユーブンゲンなど)楽典を総合的に指導しています。(ピアノのみといった単科目の指導も可能です)
+                  また、音大生には、学校での授業のサポート的レッスンとして活用して頂いております。学内ピアノ試験や卒業試験で、より点数が取れるよう、選曲や演奏効果の高い指導を行っています。</STRONG></B></TD>
+                </TR>
+                <TR>
+                  <TD width="15" height="149"></TD>
+                  <TD width="120" style="vertical-align : top;" align="center" valign="top" height="149"><B><STRONG><BR>
+                  <A name="コンクール" id="コンクール">★ｺﾝｸｰﾙ</A>　　<BR>
+                  ★ｵｰﾃﾞｨｼｮﾝ<BR>
+                  </STRONG></B></TD>
+                  <TD width="546" style="vertical-align : super;" height="149"><B><STRONG><BR>
+                  当教室の講師は、いくつかのコンクール審査を行った経験があります。また講師のコンクール経験を踏まえて、コンクール選びから、選曲、入賞するためのテクニック、音楽的表現のアドバイスを行っています。<BR>
+                  またある一定のレベルに達している生徒さんには、一流ピアニスト・講師による特別レッスンのご提案もさせて頂いています。<BR>
+                  また希望者には、ホールをかりてのレッスンも行います。受験やコンクールなど大事な本番で最高のパフォーマンスができるよう、指導致します。本番を想定して、ホールではどう響くのか、それによりタッチや音の響き、ペダルをどうコントロールしていくか、メンタルトレーニングなどあらゆる角度からアプローチしていきます。<BR>
+                  </STRONG></B></TD>
+                </TR>
+              </TBODY>
+            </TABLE>
+            </TD>
+          </tr></TABLE>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <TBODY>
+            <TR>
+              <TD width="15" height="52"><B><STRONG><IMG alt="" src="image/spacer.gif" width="1" height="10"></STRONG></B></TD>
+              <TD height="52" width="100" align="center"><B><STRONG><BR>
+              <A name="ｸﾞﾚｰﾄﾞ">★資格<BR>
+              　・ｸﾞﾚｰﾄﾞ<BR>
+              　・保育士<BR>
+              　・教員</A></STRONG></B></TD>
+              <TD height="52" width="445"><B><STRONG><BR>
+              グレード受験希望者には、必要な変奏・伴奏付け、コードネームの指導を行っています。当講師は、<A href="image/KAWAI_GRADE01.jpg">カワイグレードA級ライセンス</A>を取得していますので、高度なグレード受験にも対応致します。<BR>
+              </STRONG></B></TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <B><STRONG><BR>
+        </STRONG></B>
+        <TABLE width="560" border="0" cellspacing="0" cellpadding="0">
+          <TBODY>
+            <TR>
+              <TD height="37" width="307" valign="top">
+                <h3><FONT color="#ff6699"><A name="ソルフェージュコース" id="ソルフェージュコース">ワンレッスンコース</A> <IMG alt="ソルフェージュコース" src="image/ba1p.gif" width="560" height="3" align="top"></FONT></h3>
+              </TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <B><STRONG>　ワンレッスンをご希望の方を対象としております。<BR>
+        　コンクール・ｵｰﾃﾞｨｼｮﾝ・音高・音大受験等のアドバイスレッスンも致します。<BR>
+        　声楽・器楽等の伴奏・あわせも可能です。<BR>
+        </STRONG></B>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD width="561"><B><STRONG>　　</STRONG></B>
+            <TABLE border="0" cellspacing="0" cellpadding="0">
+              <TBODY>
+                <TR>
+                  <TD width="15" height="16"></TD>
+                  <TD width="120" style="vertical-align : super;" height="16"><B><STRONG>☆時間</STRONG></B></TD>
+                  <TD width="546" style="vertical-align : super;" height="16"><B><STRONG>60分　（相談の上）　</STRONG></B></TD>
+                </TR>
+                <TR>
+                  <TD width="15" height="13"></TD>
+                  <TD width="120" style="vertical-align : super;" height="13"><B><STRONG>☆曜日</STRONG></B></TD>
+                  <TD width="546" style="vertical-align : super;" height="13"><B><STRONG>月曜～日曜</STRONG></B></TD>
+                </TR>
+              </TBODY>
+            </TABLE>
+            <TABLE border="0" cellspacing="0" cellpadding="0">
+              <TBODY>
+                <TR>
+                  <TD width="15" height="16"></TD>
+                  <TD width="120" style="vertical-align : super;" height="16"><B><STRONG>☆回数・料金</STRONG></B></TD>
+                  <TD width="546" style="vertical-align : super;" height="16"><B><STRONG>★入会金：いただいておりません<BR>
+                  ★ワンレッスンコース ：<BR>
+                  　60分個人ﾚｯｽﾝ　　7700円～　<BR>
+                  　60分伴奏レッスン　8800円～（声楽・器楽等の伴奏・あわせ）<BR>
+                  　年齢・レベルにより、異なりますので<BR>
+                  　メール、またはお電話でお問い合わせ下さい。　　</STRONG></B></TD>
+                </TR>
+              </TBODY>
+            </TABLE>
+            </TD>
+          </tr></TABLE>
+        <B><STRONG><BR>
+        </STRONG></B>
+        <TABLE width="560" border="0" cellspacing="0" cellpadding="0">
+          <TBODY>
+            <TR>
+              <TD height="37" width="307" valign="top">
+                <h3><FONT color="#ff6699"><IMG alt="指導実績" src="image/ba1p.gif" width="560" height="3"><A name="指導実績" id="指導実績">指導実績</A> <IMG alt="指導実績" src="image/ba1p.gif" width="560" height="3" align="top"></FONT></h3>
+              </TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <SPAN class="m_-4727207441089364038s1">☆コンクール入賞実績</SPAN><BR>
+        <SPAN class="m_-4727207441089364038s1">　日本クラシック音楽コンクール&nbsp;全国大会　第2位（第1位なし）受賞<BR>
+        　日本クラシック音楽コンクール&nbsp;全国大会　第3位（第2位なし）受賞<BR>
+        　日本クラシック音楽コンクール 全国大会　小学生・中学生・高校生・一般の各部　入選　多数<BR>
+        　全日本ピアノコンクール　全国大会　U55部門　第1位　受賞<BR>
+        　クリスタルpianoコンクール　全国大会　クリスタル大賞　受賞（卒業生）<BR>　ショパン国際ピアノコンクール　IN　ASIA　大会　中学生部門　奨励賞　受賞<BR>
+        　全日本ジュニアクラシック音楽コンクール<span class="m_-4727207441089364038Apple-converted-space">&nbsp;</span>全国大会　第5位　受賞　<BR>
+        　全日本ジュニアクラシック音楽コンクール<span class="m_-4727207441089364038Apple-converted-space">&nbsp;</span>全国大会　審査委員賞　受賞　多数<BR>
+        　カワイこどもピアノコンクール東関東大会　入選<BR>
+        　東関東ピアノコンクール予選金賞　本選奨励賞　受賞<BR>
+        <BR>
+        ☆指導者賞<BR>
+        　ヨーロッパピアノ協会より、特別優秀指導者賞を受賞<BR>
+　日本クラシック音楽協会より、優秀指導者賞を多数受賞<BR>
+　東京国際芸術協会より、優秀指導者賞を多数受賞<BR>
+        </SPAN><BR>
+        <span class="m_-4727207441089364038s1">☆音楽系高校 合格実績</span><BR>
+        　<span class="m_-4727207441089364038s1">茨城県立 水戸第三高等学校 音楽科</span><span class="m_-4727207441089364038s1"></span>（多数）<BR>
+        　常総学院高等学校<BR>
+        　<br>
+        <span class="m_-4727207441089364038s1">☆音楽系大学 合格実績校</span><BR>
+        　東京音楽大学　ピアノ演奏家コース（第一志望）<BR>
+        <SPAN class="m_-4727207441089364038s1">　昭和音楽大学　ピアノ演奏家コース</SPAN>（第一志望<BR>
+        　愛知県立芸術大学　音楽学部　器楽専攻（チューバ）<BR>
+        　国立　宇都宮大学　共同教育学部　芸術生活健康系　音楽分野（ピアノ）<BR>
+        <span class="m_-4727207441089364038s1">　玉川大学 芸術教育学科 音楽コース</span><BR>
+        <span class="m_-4727207441089364038s1">　白鴎大学 教育学部 児童教育専攻</span><BR>
+        <span class="m_-4727207441089364038s1">　日本大学 芸術学部 音楽学科</span><BR>
+        <BR>
+        <span class="m_-4727207441089364038s1">☆試験合格実績<BR>
+        　ローランド　ピアノ科　R1講師資格認定ｵｰﾃﾞｨｼｮﾝ　演奏課題　合格<BR>
+        　ヤマハ演奏グレード5級　合格<BR>
+        　カワイピアノ演奏ｸﾞﾚｰﾄﾞ6級　合格<BR>
+        　教員採用試験　茨城県公立特別支援学校教諭　合格<BR>
+        　教員採用試験<span class="m_-4727207441089364038Apple-converted-space">&nbsp;<span class="Apple-converted-space"></span></span>栃木県公立学校</span><B><STRONG>教員　合格<BR>
+        <BR>
+        </STRONG></B>
+        <TABLE width="560" border="0" cellspacing="0" cellpadding="0">
+          <TBODY>
+            <TR>
+              <TD height="37" width="307" valign="top">
+                <h3><FONT color="#ff6699"><IMG alt="生徒さんの声・評判" src="image/ba1p.gif" width="560" height="3"><A name="生徒さんの声" id="生徒さんの声">生徒さんの声</A> <IMG alt="生徒さんの声・評判" src="image/ba1p.gif" width="560" height="3" align="top"></FONT></h3>
+              </TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <B><STRONG> <A href="image/st002.jpg"><IMG src="image/s-st002.jpg" width="215" height="150" border="0"></A> <A href="image/st003.jpg"><IMG src="image/s-st003.jpg" width="222" height="150" border="0"></A><BR>
+        </STRONG></B>
+        <TABLE border="1" width="564" height="1356">
+          <TBODY>
+            <TR>
+              <TD align="center" height="135"><B><STRONG>&nbsp;教育学部音楽科ﾋﾟｱﾉ専攻大学2年定期ﾚｯｽﾝ受講<BR>
+              <IMG src="peo007.gif" width="83" height="77" border="0"></STRONG></B></TD>
+              <TD height="135"><B><STRONG>私は、大学でピアノを専攻していますが、一人での普段の練習に不安があり、習い始めました。先生の的確なアドバイスのお陰で、試験では自信を持って弾くことができ、成績も上がりました。周りの友達からも、上手くなってるよ！と言われるようになり、とても嬉しい限りです。また音楽や技術面だけでなく、先生の人柄をみて、自分も先生のような大人になりたいと思いながら、レッスンに通っています。<BR>
+              もっと早く先生に出会いたかったな～と思っています。<BR>
+              <BR>
+              </STRONG></B>
+              <DIV class="col-a">
+              <DIV class="hidden" id="gx_userprofile"><B><STRONG>※将来は、小学校の音楽の先生を目指しているそうです。</STRONG></B></DIV>
+              </DIV>
+              <B><STRONG>&nbsp;</STRONG></B></TD>
+            </TR>
+            <TR>
+              <TD align="center" height="138"><B><STRONG>&nbsp;幼稚園年長<BR>
+              定期ﾚｯｽﾝ受講<BR>
+              <IMG src="peo006.gif" width="75" height="73" border="0"></STRONG></B></TD>
+              <TD height="138"><B><STRONG>お子様：<BR>
+              練習は、大変だけど、頑張れば、弾けるようになるので、ピアノを続けたいです。「エリーゼのために 」が弾けるようになって嬉しいです。<BR>
+              <BR>
+              お母様：<BR>
+              先生のレッスンは、親の私が、子供の時に、受けたかったと思う様な指導で、先生の言われた通りに弾くと、私自身の腕前もアップするかの様です。良い先生に巡り合うことができたお陰で、子供は順調にピアノが上達しており<BR>
+              幸運だったと思っています。&nbsp;</STRONG></B></TD>
+            </TR>
+            <TR>
+              <TD align="center"><B><STRONG>&nbsp;小２<BR>
+              定期ﾚｯｽﾝ受講<BR>
+              <IMG src="peo005.gif" width="71" height="67" border="0"></STRONG></B></TD>
+              <TD><B><STRONG>&nbsp;お父様：<BR>
+              先生にお世話になってもうすぐ4年になります。先生は褒めて伸ばしてくれるので、練習嫌いな娘でも続けられています。お陰様でら保育園の時は、鍵盤楽器の伴奏役に選ばれ、ピアノに関して自信を持ってきているようです。親としては、''○○ちゃんと言えばピアノだよね。''となることを期待しています。また、付き添いで、教室に通う親にも楽しみがあります。演奏家でもある先生の演奏を'生'で聴けるのは、日日常的な、とても貴重で楽しい体験です。<BR>
+              <BR>
+              </STRONG></B>
+              <DIV tabindex="-1" class="content wide-col" id="updatesPageContainer" role="document">
+              <DIV class="col-a">
+              <DIV class="hidden" id="gx_userprofile"><B><STRONG>※将来は、小学校の音楽の先生を目指しているそうです。</STRONG></B></DIV>
+              </DIV>
+              </DIV>
+              </TD>
+            </TR>
+            <TR>
+              <TD align="center"><B><STRONG>&nbsp;小２<BR>
+              定期ﾚｯｽﾝ受講<BR>
+              <IMG src="peo011.gif" width="64" height="51" border="0"></STRONG></B></TD>
+              <TD><B><STRONG>お子様：<BR>
+              私がピアノを習って、2年が経ちました。レッスンでは、ここを練習してね、とかこの指使いを気をつけて、とアドバイスしてくれるので、わからない所があったら、すぐに聞けます。だから安心して練習できます。<BR>
+              ワークの宿題もでます。その日に習った事がワークにでるので、わからない所があると、先生が優しく教えてくれるので、安心します。<BR>
+              <BR>
+              お母様：<BR>
+              子供のペースに合わせて頂き、いつも笑顔で、優しくレッスンして下さり、感謝しています。子供が無理なく練習できるようご指導下さり、楽しく通っています。&nbsp;</STRONG></B></TD>
+            </TR>
+            <TR>
+              <TD align="center"><B><STRONG>&nbsp;小２<BR>
+              お母様<BR>
+              定期ﾚｯｽﾝ受講<BR>
+              <IMG src="peo005.gif" width="71" height="67" border="0"></STRONG></B></TD>
+              <TD><B><STRONG>お子様：<BR>
+              </STRONG></B>
+              <P class="p0" style="margin-bottom:0pt; margin-top:0pt; "><B><STRONG><SPAN style="mso-spacerun:'yes'; visibility:visible; font-size:10.5000pt; font-family:'Century'; ">私がなぜ小野ピアノ教室に習ったかと言うと、理由が二つあります。一つ目は、細かい所まで教えてくれて、勉強になるからです。<BR>
+              二つ目は、集中できるお部屋だからです。<BR>
+              私も、先生みたいな、ピアノの先生になってみたいです。ピアノ以外に習い事が二つ目あります。公文、バレエです。前は、バレエが<FONT face="Century">1</FONT><FONT face="ＭＳ 明朝">番好きだったけど、今は、ピアノが</FONT><FONT face="Century">1</FONT><FONT face="ＭＳ 明朝">番好きになりました。これからも、アラベスクやバーナムをもっと頑張っていきたいです。</FONT><BR>
+              (<FONT face="ＭＳ 明朝">将来の夢は、どっちにしようか迷っているところです。一つ目は、スケート選手、二つ目は、ピアニストになることです。</FONT><FONT face="Century">)</FONT><BR>
+              私には、ものすごくピアノが上手な友達がいるので、ライバル同士で勝ちたいです。その友達は、毎日一回練習しているので、私は、<FONT face="Century">10</FONT><FONT face="ＭＳ 明朝">回練習してピアニストになりたいです。これからも宜しくお願いします。</FONT></SPAN></STRONG></B><B><STRONG><BR>
+              <BR>
+              お母様：<BR>
+              </STRONG></B></P>
+              <P class="p0" style="margin-bottom:0pt; margin-top:0pt; "><B><STRONG><SPAN style="mso-spacerun:'yes'; visibility:visible; font-size:10.5000pt; font-family:'Century'; ">親子でレッスンに通っています。弾けるかどうか自信がない曲でも、先生が丁寧にポイントを教えてくれるので、練習すればできると思いました。実は去年までは、別の所に通っていたのですが、以前よりも練習時間が増え、親子でピアノの話をする時間も増えました。先生も素敵な方です。子供や私の好きな曲を目の前で弾いてくれるので、とても感動します。</SPAN></STRONG></B></P>
+              <B><STRONG>&nbsp;</STRONG></B></TD>
+            </TR>
+            <TR>
+              <TD align="center"><B><STRONG>&nbsp;小3<BR>
+              小６<BR>
+              定期ﾚｯｽﾝ受講<BR>
+              <IMG src="peo011.gif" width="37" height="30" border="0"><IMG src="peo005.gif" width="34" height="32" border="0"></STRONG></B></TD>
+              <TD><B><STRONG>お子様（姉）：<BR>
+              </STRONG></B>
+              <P class="p0" style="margin-bottom:0pt; margin-top:0pt; "><B><STRONG><SPAN style="mso-spacerun:'yes'; visibility:visible; font-size:10.5000pt; font-family:'Century'; ">先生は、とても優しく教えて下さり、ピアノのコンクールなど私の経験に役立つようなものを勧めてくれます。そのため、私は大きな舞台でも、いつも通りの演奏を弾ける度胸がついた事や他の事でも！胸を張ってできるようになり、先生に感謝しています。</SPAN></STRONG><BR>
+              </B><BR>
+              <B><STRONG>※将来は、小・中・高校の音楽の先生を目指しているそうです。</STRONG></B></P>
+              <B><STRONG><BR>
+              お子様（妹）：<BR>
+              </STRONG></B>
+              <P class="p0" style="margin-bottom:0pt; margin-top:0pt; "><B><STRONG><SPAN style="mso-spacerun:'yes'; visibility:visible; font-size:10.5000pt; font-family:'Century'; ">毎週土曜日にピアノを習っていて、先生にいろんな事を教わっています。難しい曲では、よく分かるように細かく教えてもらって弾けるようになったり、うまく弾けない曲のアドバイスを、教えてもらったりしました。<BR>
+              もっといろいろな知らない曲を教えてもらいたいです</SPAN>。</STRONG></B></P>
+              <P class="p0" style="margin-bottom:0pt; margin-top:0pt; "><B><STRONG><SPAN style="mso-spacerun:'yes'; visibility:visible; font-size:10.5000pt; font-family:'Century'; "></SPAN></STRONG></B></P>
+              <B><STRONG><BR>
+              お母様：<BR>
+              </STRONG></B>
+              <P class="p0" style="margin-bottom:0pt; margin-top:0pt; "><B><STRONG><SPAN style="mso-spacerun:'yes'; visibility:visible; font-size:10.5000pt; font-family:'Century'; ">我が家の子供達は、毎週のレッスンをとても楽しみにしてます。先生は、丁寧に教えて下さり、あっという間に時間が経ってしまうようです。私自身も幼い頃ピアノを習っていましたが、ただ弾くだけでなく曲の解釈まで習ってくるようで、練習している娘のピアノを聞く度、うっとりしています。私も先生のような方に教えて頂けたら、もっと上手になっていたのかな？なんて思ったりしています。</SPAN></STRONG></B></P>
+              </TD>
+            </TR>
+            <TR>
+              <TD align="center"><B><STRONG>&nbsp;小3<BR>
+              定期ﾚｯｽﾝ受講<BR>
+              <IMG src="peo005.gif" width="34" height="32" border="0"></STRONG></B></TD>
+              <TD><B><STRONG>お父様：<BR>
+              以前別の教室で、娘がレッスンをうけていましたが、あまり上達せず、ピアノをやめようかとも一時考えましたが、小野先生のHPをみて、体験レッスンを受け、娘にあった指導方法で娘のやる気レベルは、日に日にアップしました。今では毎日、自分から練習するようになり、将来はピアノの先生になりたいというほど、ピアノが大好きになました。</STRONG></B><B><STRONG><SPAN style="mso-spacerun:'yes'; visibility:visible; font-size:10.5000pt; font-family:'Century'; "></SPAN></STRONG></B><BR>
+              <BR>
+              <B><STRONG>※将来は、お医者さんか小学校の音楽の先生を目指しているそうです。</STRONG></B><BR>
+              </TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <B><STRONG><BR>
+        </STRONG></B>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <tr>
+          </tr></TABLE>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <TBODY>
+            <TR>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <TBODY>
+            <TR>
+              <TD width="111"></TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        　　　　　　　　
+        <TABLE width="560" border="0" cellspacing="0" cellpadding="0">
+          <TBODY>
+          <tr>
+              <TD width="561" valign="bottom"><FONT face="ＭＳ ゴシック"><IMG alt="" src="image/ba1p.gif" width="561" height="3"></FONT></TD>
+            </tr>
+            <TR>
+              <TD height="37" width="307"><h3><FONT color="#ff6699"><A name="発表会・お楽しみ会" id="発表会・お楽しみ会">発表会・お楽しみ会</A></FONT><BR>
+              <IMG alt="" src="image/ba1p.gif" width="561" height="3" align="top"></h3></TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD width="561">
+            <TABLE border="0" cellspacing="0" cellpadding="0">
+              <TBODY>
+                <TR>
+                  <TD width="15" height="16"></TD>
+                  <TD width="120" style="vertical-align : super;" height="16" align="center"><B><STRONG>☆発表会</STRONG></B><BR>
+                  <BR>
+                  <IMG src="image/FP-002.jpg" width="108" height="155" border="0"></TD>
+                  <TD style="vertical-align : super;" height="16" width="477"><B><STRONG>：会費制による自由参加<BR>
+                  私達、講師は、子供たちが大好きな曲を、のびのびと弾けるように、また「あ～楽しかった。またでたいな～」と思ってもらえるように、全力でサポートしていきます。そして、ご父兄様と連携を取りながら、最後まで成し遂げる力を養い、達成感を味わえるような音楽発表会にしたいと思います。<BR>
+                  　<A href="https://blogs.yahoo.co.jp/elogefelicitation/71226703.html">★”お楽しみ会”　2017/6/11、18（日）6部構成</A><BR>
+                  　<A href="https://blogs.yahoo.co.jp/elogefelicitation/70801140.html">★”お楽しみ会”　2016/6/12、19(日)</A><BR>
+                  　<A href="http://blogs.yahoo.co.jp/elogefelicitation/68585526.html">★”音楽発表会”　2013/12/1(日)　テクノ交流館リコッティ</A><BR>
+                  　<A href="http://blogs.yahoo.co.jp/elogefelicitation/66887246.html">★”子供たちによるピアノコンサート”　2012/7/29(日)　ﾃｸﾉ交流館ﾘｺﾃｨ<BR>
+                  　</A><A href="http://blogs.yahoo.co.jp/elogefelicitation/65090911.html">★”ピアノコンサート”　2011/7/31(日)　ひたちなか市愉快スタジオ</A></STRONG></B></TD>
+                </TR>
+              </TBODY>
+            </TABLE>
+            </TD>
+          </tr></TABLE>
+        <TABLE width="560" border="0" cellspacing="0" cellpadding="0">
+          <TBODY>
+            <TR>
+              <TD></TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <TABLE width="100" border="0" cellspacing="0" cellpadding="0">
+          <TBODY>
+            <TR>
+              <TD><B><STRONG><FONT color="#FF6699" size="+2" style="font-size : 150%;">　　　　　　　　　　　　　　　　　　　　　　　　　　　</FONT><FONT color="#FF6699"><IMG alt="" src="image/ba1p.gif" width="560" height="3"><BR>
+              </FONT></STRONG></B>　　　　　　　　　　
+              <TABLE border="0" cellspacing="0" cellpadding="0">
+                <TBODY>
+                  <TR>
+                    <TD height="37" width="307"><h2><FONT color="#ff6699">多賀城教室</FONT></h2></TD>
+                    <TD height="37" width="252" align="right"><B><STRONG><A href="image/TJLessonRoom.JPG"><IMG src="image/s320-TJLessonRoom.jpg" width="147" height="110" border="0"></A></STRONG></B></TD>
+                  </TR>
+                </TBODY>
+              </TABLE>
+              <B><STRONG><FONT color="#FF6699"><IMG alt="" src="image/ba1p.gif" width="560" height="3"></FONT></STRONG></B> 　　　 　　 　　 　　 　　　　　　　　　　 　　
+              <TABLE width="560" border="0" cellspacing="0" cellpadding="0">
+                <TBODY>
+                  <tr>
+                    <TD width="561" valign="bottom"><FONT face="ＭＳ ゴシック"><IMG alt="" src="image/ba1p.gif" width="561" height="3"></FONT></TD>
+                  </tr>
+                  <TR>
+                    <TD height="37" width="307"><h3><FONT color="#ff6699">レッスンコース</FONT>
+              　　　<IMG alt="" src="image/ba1p.gif" width="561" height="3" align="top"></h3></TD>
+                  </TR>
+                </TBODY>
+              </TABLE>
+              <TABLE border="0" cellspacing="0" cellpadding="0">
+                <TBODY>
+                  <TR>
+                    <TD height="37" width="15"><B><STRONG><IMG alt="" src="image/spacer.gif" width="1" height="10">　</STRONG></B></TD>
+                    <TD height="37" width="95"><B><STRONG>☆一般コース　<BR>
+                    ☆専門コース　<BR>
+                    ☆ソルフェージュ</STRONG></B></TD>
+                    <TD height="37" width="450"><B><STRONG>：これからピアノを習いたい方やピアノのテクニック・音楽性を伸ばしたい方 <BR>
+                    ：音高、音大受験希望の方・音楽講師・音楽留学希望者・保育士を志望の方 　　<BR>
+                    ：聴音・視唱・視奏・楽典などを学び、総合的に音楽を深めたい方</STRONG></B></TD>
+                  </TR>
+                </TBODY>
+              </TABLE>
+              　　　　　　    　　
+              <TABLE width="560" border="0" cellspacing="0" cellpadding="0">
+                <TBODY>
+                 <tr>
+                    <TD width="561" valign="bottom"><FONT face="ＭＳ ゴシック"><IMG alt="" src="image/ba1p.gif" width="561" height="3"></FONT></TD>
+                 </tr>
+                 <TR>
+                    <TD height="37" width="307"><h3><FONT color="#ff6699">レッスン時間</FONT><BR>
+                    <IMG alt="" src="image/ba1p.gif" width="561" height="3" align="top"></h3></TD>
+            </TR>
+                </TBODY>
+              </TABLE>
+              <TABLE border="0" cellspacing="0" cellpadding="0">
+                <TBODY>
+                  <TR>
+                    <TD width="15" height="29"></TD>
+                    <TD width="120" style="vertical-align : super;" height="29"><B><STRONG>☆回数・料金</STRONG></B></TD>
+                    <TD width="546" style="vertical-align : super;" height="29"><B><STRONG>ワンレッスン制 ：年齢・レベルにより、異なります<BR>
+                    メール、またはお電話でお問い合わせ下さい　　　</STRONG></B></TD>
+                  </TR>
+                </TBODY>
+              </TABLE>
+              </TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        　　　　　　　
+        <TABLE width="560" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD height="37" width="307" valign="bottom"><h3><FONT color="#ff6699"><IMG alt="" src="image/ba1p.gif" width="561" height="3" align="top">コンクール</FONT><BR>
+              <IMG alt="" src="image/ba1p.gif" width="561" height="3" align="top"></h3></TD>
+          </tr></TABLE>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD width="561">
+            <TABLE border="0" cellspacing="0" cellpadding="0">
+              <TBODY>
+                <TR>
+                  <TD width="15" height="16"></TD>
+                  <TD width="120" style="vertical-align : super;" height="16"><B><STRONG>☆コンクール　</STRONG></B></TD>
+                  <TD width="546" style="vertical-align : super;" height="16"><B><STRONG>：カワイ・ヤマハグレード資格、各種オーディション・コンクールへの参加</STRONG></B></TD>
+                </TR>
+              </TBODY>
+            </TABLE>
+            <B><STRONG><BR>
+            </STRONG></B></TD>
+          </tr></TABLE>
+        <B><STRONG><BR>
+        </STRONG></B>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <TBODY>
+            <TR>
+              <TD width="561"></TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <TABLE width="560" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD height="37" width="307" valign="middle"><h3><FONT color="#ff6699"><IMG alt="" src="image/ba1p.gif" width="560" height="3" align="middle"><A name="フランス留学" id="フランス留学">フランス留学</A><BR>
+            <IMG alt="" src="image/ba1p.gif" width="560" height="3"></font></h3>
+          </tr></TABLE>
+        <TABLE width="100" border="0" cellspacing="0" cellpadding="0">
+          <TBODY>
+            <TR>
+              <TD>
+              <TABLE border="0" cellspacing="0" cellpadding="0">
+                <TBODY>
+                  <TR>
+                    <TD height="37" width="18"><B><STRONG><BR>
+                    </STRONG></B></TD>
+                    <TD height="37" align="left" width="541"><B><STRONG>ピアノ講師として、ピアノの演奏の能力を高めるため、パリに3年間留学致しました。パリには、若手の優秀なピアニストが集まり、切磋琢磨しておりました。<BR>
+                    例えば、同じ学年、クラスメートには、ロン・ティボー国際コンクールやショパン国際コンクール、チャイコフスキー国際コンクール入賞者といった今や世界中でピアニストとして活躍している人達と、共に試験を受けたり、同じクラスで、前後にレッスンを受けたりと素晴らしい演奏を身近かに聴くことができました。今となっては、そういう環境で学べた事は、私にとって、貴重な経験となっています。<BR>
+                    <BR>
+                    遠い異国の地で、1人で暮らす寂しさ、そして治安の悪さに脅えて暮らす恐怖、言葉の問題やトラブルなど生活面だけでも、容易なものではありませんでした。そんな中、ピアノと真摯に向き合い学んだことは、私の心の糧にもなっています。<BR>
+                    <BR>
+                    思いおこせば、私が、ピアノを始めたきっかけは、母から勧められた<BR>
+                    ピアノのグループレッスンでした。音楽の事は何も知らない両親でしたが、近くの音楽教室に習わせてくれたのです。無論、私自身もピアノを習いたいと思った事もありませんでした。ピアノを続けていく中で、当時習っていたピアノの先生への憧れが強くなってきたのです。<BR>
+                    何気なく始めた音楽レッスンのお陰で、私にとっては、ピアノという一生の宝を得る事になったのです。<BR>
+                    <IMG src="image/pari21.jpg" border="0" width="257" height="173"><IMG src="image/pari12.jpg" border="0" width="117" height="173"><IMG src="image/pari411.jpg" border="0" width="159" height="173"><BR>
+                    室内楽科ﾏﾙﾃｨｰﾆ先生　　　ﾋﾟｱﾉ科　故ｼﾞｬﾙﾒｰﾇ・ﾑﾆｴ先生　　　　ﾋﾟｱﾉ科ｽﾃﾌｧﾝﾌﾞﾚ先生<BR>
+                    <BR>
+                    <BR>
+                    お子様にも、ピアノに触れる機会を与えてみては、いかがですか？ピアノが、生涯の心の教養、成長に繋がることを願っています。</STRONG></B><BR>
+                    <BR>
+                    <IMG src="image/pari61.jpg" border="0" width="122" height="184"><IMG src="image/pari51.jpg" border="0" width="271" height="184"><IMG src="image/pari7a.jpg" border="0" width="136" height="184"><BR>
+                    ﾊﾟﾘ・ｴｺｰﾙﾉﾙﾏﾙ音楽院　　　　　　故ｼﾞｬﾙﾒｰﾇ・ﾑﾆｴ先生門下生　　　　　　　　　　ﾊﾟﾘの風景<BR>
+                    </TD>
+                  </TR>
+                </TBODY>
+              </TABLE>
+              <B><FONT color="#FF6699"><STRONG><IMG alt="" src="image/ba1p_white.jpg" width="560" height="3"></STRONG></FONT></B></TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <TBODY>
+            <TR>
+              <TD height="37" width="18"><B><STRONG><BR>
+              </STRONG></B></TD>
+              <TD height="37" align="left" width="541"><B><STRONG><FONT color="#FF6699">留学リンク<BR>
+              <A href="http://www.ono-piano.com/PHOTO/p1/photo.htm">・ヴィレーヌ国際コンクール　2004年</A><BR>
+              <A href="http://www.ono-piano.com/PHOTO/p2/photo.htm">・ファーストザドラ国際ピアノコンクール　2004年</A><BR>
+              <A href="http://www.ono-piano.com/PHOTO/p3/photo.htm">・国際芸術村での演奏会 2003/2005年</A><BR>
+              <A href="http://www.ono-piano.com/PHOTO/p4/photo.htm">・オーヴェルの教会 2005年</A></FONT></STRONG></B></TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <B><FONT color="#FF6699"><STRONG><IMG alt="" src="image/ba1p_white.jpg" width="560" height="3"></STRONG></FONT></B><B><STRONG><FONT color="#FF6699"><BR>
+        </FONT></STRONG></B></TD>
+      </tr></TABLE>
+    <table width="747" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><img alt="" src="image/obj_bottom_bar.gif" width="747" height="6"></td>
+      </tr></table>
+    <table border="0" align="center" cellpadding="5" cellspacing="0">
+      <tr>
+        <td align="center"><font size="1"><a href="index.html">HOME</a> / <a href="goaisatsu.html">ご挨拶</a> / <a href="profile.html">プロフィール</a> / <a href="lesson.html">レッスン</a> / <a href="access.html">アクセス</a> / <a href="otoiawase.html">お問い合せ</a></font></td>
+      </tr><tr>
+        <td align="center"><font size="1">Copyright(C) 20xx DDN All Rights Reserved.（記述例です）</font></td>
+      </tr></table></td>
+    <td width="24" background="image/bg_right.gif"><img alt="" src="image/bg_right.gif" width="24" height="32"></td>
+  </tr></table>
+</BODY>
+</html>

@@ -1,0 +1,44 @@
+body{
+	margin: 0; 
+	padding: 0; 
+	font-size: 100%; 
+	font-family: "�q���M�m�p�S Pro W3", "Hiragino Kaku Gothic Pro", Osaka, Verdana, Arial, sans-serif, "���C���I", Meiryo, "�l�r �o�S�V�b�N", "MS PGothic", sans-serif; 
+	color: #666666;
+	background : url(../css/bg_back.gif) 0% 0% / auto auto repeat scroll padding-box border-box transparent;
+}
+
+a:link{
+	color: #3399CC;
+}
+
+a:active{
+	color: #3399CC;
+}
+
+a:visited{
+	color: #3399CC;
+}
+
+a:hover{
+	color: #FF6666;
+}
+
+
+td,th{
+	font-size: 0.8em;
+}
+
+td.sitetitle{
+	font-size: 0.8em;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.sitetitle a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.sitetitle a:visited{
+	color: #FFFFFF;
+}

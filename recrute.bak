@@ -1,0 +1,300 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ja">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta name="小野 ピアノ教室 茨城 水戸" content="水戸の偕楽園近くの、ピアノ教室です。教室入会をご希望の方や検討している方はお気軽にご相談ください。">
+<meta name="keywords" content="小野,智恵,ピアノ教室,音楽教室,水戸,水戸市,ピアノ,音楽,茨城,茨城県,指導,ピアニスト,コンクール,グレード,大人,子供,piano,ono,mito,千波湖,偕楽園,北口,三の丸,幼稚園,小学生,千波,良い">
+<META http-equiv="Content-Style-Type" content="text/css">
+<META name="GENERATOR" content="IBM WebSphere Studio Homepage Builder Version 13.0.6.0 for Windows">
+<title>小野 ピアノ教室 茨城県 水戸市</title>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--HPB_SCRIPT_ROV_50
+//
+//  Licensed Materials - Property of IBM
+//  5724I83
+//  (C) Copyright IBM Corp. 1995, 2007 All Rights Reserved.
+//
+
+// HpbImgPreload:
+//
+function HpbImgPreload()
+{
+var appVer=parseInt(navigator.appVersion);
+var isNC=false,isN6=false,isIE=false;
+if (document.all && appVer >= 4) isIE=true; else
+if (document.getElementById && appVer > 4) isN6=true; else
+if (document.layers && appVer >= 4) isNC=true;
+if (isNC||isN6||isIE)
+{
+if (document.images)
+{
+var imgName = HpbImgPreload.arguments[0];
+var cnt;
+swImg[imgName] = new Array;
+for (cnt = 1; cnt < HpbImgPreload.arguments.length; cnt++)
+{
+swImg[imgName][HpbImgPreload.arguments[cnt]] = new Image();
+swImg[imgName][HpbImgPreload.arguments[cnt]].src = HpbImgPreload.arguments[cnt];
+}
+}
+}
+}
+// HpbImgFind:
+//
+function HpbImgFind(doc, imgName)
+{
+for (var i=0; i < doc.layers.length; i++)
+{
+var img = doc.layers[i].document.images[imgName];
+if (!img) img = HpbImgFind(doc.layers[i], imgName);
+if (img) return img;
+}
+return null;
+}
+// HpbImgSwap:
+//
+function HpbImgSwap(imgName, imgSrc)
+{
+var appVer=parseInt(navigator.appVersion);
+var isNC=false,isN6=false,isIE=false;
+if (document.all && appVer >= 4) isIE=true; else
+if (document.getElementById && appVer > 4) isN6=true; else
+if (document.layers && appVer >= 4) isNC=true;
+if (isNC||isN6||isIE)
+{
+if (document.images)
+{
+var img = document.images[imgName];
+if (!img) img = HpbImgFind(document, imgName);
+if (img) img.src = imgSrc;
+}
+}
+}
+var swImg; swImg=new Array;
+//-->
+</script><script language="JavaScript">
+<!--HPB_SCRIPT_PLD_50
+HpbImgPreload('_HPB_ROLLOVER1', 'image/bt_goaisatsu_off.gif', 'image/bt_goaisatsu_on.gif');
+HpbImgPreload('_HPB_ROLLOVER2', 'image/bt_profile_off.gif', 'image/bt_profile_on.gif');
+HpbImgPreload('_HPB_ROLLOVER3', 'image/bt_lesson_off.gif', 'image/bt_lesson_on.gif');
+HpbImgPreload('_HPB_ROLLOVER4', 'image/bt_access_off.gif', 'image/bt_access_on.gif');
+HpbImgPreload('_HPB_ROLLOVER5', 'image/bt_otoiawase_off.gif', 'image/bt_otoiawase_on.gif');
+//-->
+</script></head>
+<body>
+<P><BR>
+</P>
+<P><BR>
+</P>
+<P><BR>
+</P>
+<table width="795" height="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr valign="top">
+    <td width="24" background="image/bg_left.gif"><img alt="" src="image/bg_left.gif" width="24" height="32"></td>
+    <td bgcolor="#FFFFFF">
+    <table width="747" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="168" align="center" background="image/bg_title.gif" class="sitetitle">
+        <table width="166" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td valign="top"><a href="index.html"><img src="image/obj_sitetitle01.gif" alt="Homeへ" width="168" height="56" border="0"></a></td>
+          </tr><tr>
+            <td class="sitetitle" height="43" align="center" valign="top" background="image/bg_sitetitle.gif"><a href="index.html"><img src="image/obj_sitetitle02.gif" alt="ono-piano.com" width="168" height="43" border="0"></a></td>
+          </tr></table>
+        </td>
+        <td width="582">
+        <table width="579" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td background="image/obj_head.jpg">
+            <TABLE border="0" cellpadding="5" cellspacing="0">
+              <tr>
+                <TD align="center" valign="top" width="579" height="75"><font color="#FFFFFF" size="1"><br>
+                <IMG src="image/OnoChiePianoClass.gif" width="332" height="41" border="0"> </font></TD>
+              </tr></TABLE>
+            </td>
+          </tr><tr>
+            <td background="image/obj_head_menu.gif">
+            <table border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><A href="goaisatsu.html" id="_HPB_ROLLOVER1" onmouseout="HpbImgSwap('_HPB_ROLLOVER1', 'image/bt_goaisatsu_off.gif');" onmouseover="HpbImgSwap('_HPB_ROLLOVER1', 'image/bt_goaisatsu_on.gif');"><IMG src="image/bt_goaisatsu_off.gif" alt="ご挨拶" width="115" height="24" border="0" name="_HPB_ROLLOVER1"></A></td>
+                <td><img alt="" src="image/bt1p.gif" width="1" height="24"></td>
+                <td><A href="profile.html" id="_HPB_ROLLOVER2" onmouseout="HpbImgSwap('_HPB_ROLLOVER2', 'image/bt_profile_off.gif');" onmouseover="HpbImgSwap('_HPB_ROLLOVER2', 'image/bt_profile_on.gif');"><IMG src="image/bt_profile_off.gif" alt="プロフィール" width="115" height="24" border="0" name="_HPB_ROLLOVER2"></A></td>
+                <td><img alt="" src="image/bt1p.gif" width="1" height="24"></td>
+                <TD align="right"><A href="lesson.html" id="_HPB_ROLLOVER3" onmouseout="HpbImgSwap('_HPB_ROLLOVER3', 'image/bt_lesson_off.gif');" onmouseover="HpbImgSwap('_HPB_ROLLOVER3', 'image/bt_lesson_on.gif');"><IMG src="image/bt_lesson_off.gif" alt="レッスン" width="115" height="24" border="0" name="_HPB_ROLLOVER3"></A></TD>
+                <td><img alt="" src="image/bt1p.gif" width="1" height="24"></td>
+                <td><A href="access.html" id="_HPB_ROLLOVER4" onmouseout="HpbImgSwap('_HPB_ROLLOVER4', 'image/bt_access_off.gif');" onmouseover="HpbImgSwap('_HPB_ROLLOVER4', 'image/bt_access_on.gif');"><IMG src="image/bt_access_off.gif" alt="アクセス" width="115" height="24" border="0" name="_HPB_ROLLOVER4"></A></td>
+                <td><img alt="" src="image/bt1p.gif" width="1" height="24"></td>
+                <td><A href="otoiawase.html" id="_HPB_ROLLOVER5" onmouseout="HpbImgSwap('_HPB_ROLLOVER5', 'image/bt_otoiawase_off.gif');" onmouseover="HpbImgSwap('_HPB_ROLLOVER5', 'image/bt_otoiawase_on.gif');"><IMG src="image/bt_otoiawase_off.gif" alt="お問い合せ" width="115" height="24" border="0" name="_HPB_ROLLOVER5"></A></td>
+              </tr></table>
+            </td>
+          </tr></table>
+        </td>
+      </tr></table>
+    <table width="747" border="0" cellspacing="0" cellpadding="0">
+      <tr align="center" valign="top">
+        <TD background="image/bg_pink.gif" width="167" align="left">■ホーム<BR>
+        　　<A href="http://www.ono-piano.com/topics.htm">トピックス（コンサート）<BR>
+        </A>　　<A href="http://ono-piano.com/piano.class/otoiawase2a.html">無料体験レッスン <BR>
+        </A>■<A href="http://ono-piano.com/piano.class/goaisatsu.html">ご挨拶<BR>
+        </A>　　教育理念<BR>
+        　　指導方針 <BR>
+        ■<A href="http://ono-piano.com/piano.class/profile.html">講師プロフィール</A> <BR>
+        ■レッスン<BR>
+        　　<A href="http://ono-piano.com/piano.class/lesson.html#ﾋﾟｱﾉ一般ｺｰｽ">ピアノ一般コース<BR>
+        </A>　　<A href="http://ono-piano.com/piano.class/lesson.html#専門ｺｰｽ">ピアノ専門コース<BR>
+        </A>　　（音高・音大生、講師）<BR>
+        　　<A href="http://ono-piano.com/piano.class/lesson.html#ｿﾌﾌｪｰｼﾞｭｺｰｽ">ソルフェージュ<BR>
+        </A>　　<A href="http://ono-piano.com/piano.class/lesson.html#生徒の声">生徒さんの声<BR>
+        </A>　　<A href="http://ono-piano.com/piano.class/lesson.html#発表会">発表会・交流会<BR>
+        </A>　　<A href="http://ono-piano.com/piano.class/lesson.html#ｺﾝｸｰﾙ">ｺﾝｸｰﾙ・ｵｰﾃﾞｨｼｮﾝ<BR>
+        </A>　　<A href="http://ono-piano.com/piano.class/lesson.html#受験">受験（音高、音大）<BR>
+        </A>　　<A href="lesson.html#ｸﾞﾚｰﾄﾞ">資格(ｸﾞﾚｰﾄﾞ・保育士・教員）</A><BR>
+        　　<A href="http://ono-piano.com/piano.class/lesson.html#留学">フランス留学</A> <BR>
+        ■<A href="http://ono-piano.com/piano.class/access.html">アクセス</A> <BR>
+        ■<A href="http://ono-piano.com/piano.class/otoiawase.html">お問合せ<BR>
+        </A>　<A href="http://ono-piano.com/piano.class/otoiawase2c.html">　FAQ(よくある質問）<BR></A>
+        ■<A href="http://ono-piano.com/piano.class/recruit.html">講師募集</A> <BR>
+        ■音楽リンク<BR>
+        　　<A href="http://arttowermito.or.jp/">水戸芸術館<BR>
+        </A>　　<A href="http://www.ibarakiken-bunkacenter.com/">茨城県民文化センター<BR>
+        </A>　　<A href="http://sougakudou310.seesaa.net/">水戸奏楽堂<BR>
+        </A>　　<A href="https://www.piano.or.jp/">ピティナ指導者協会<BR>
+        </A>　　<A href="http://www.studyabroad.co.jp/france/">成功するﾌﾗﾝｽ留学<BR>
+        </A>　　<A href="http://ccfj.com/profile/index.html">ﾌﾗﾝｽ音楽学校<BR>
+        </A>　　<A href="http://www.ecolenormalecortot.com/">ﾊﾟﾘ・ｴｺｰﾙﾉﾙﾏﾙ音楽院<BR>
+        <BR>
+        </A><IMG src="image/WhiteRose/Gakufu06c.jpg" width="167" height="268" border="0"><BR>
+        所在地：茨城県水戸市天王町TEL:０２９－２２５－０２７２<BR>
+        MAIL:piano.class@ono-piano.com</TD>
+        <TD width="580">
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD width="594" height="146"><img alt="" src="image/spacer.gif" width="1" height="10"><IMG src="image/Flowers/003.jpg" width="579" height="143" border="0"></TD>
+          </tr></TABLE>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <TBODY>
+            <TR>
+              <TD align="center" width="485"><FONT size="+3" style="font-size : 200%;" color="#ffffff">喜び 感動の体験を当教室で　★★</FONT></TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD width="561"><FONT color="#FF6699"><STRONG>☆はじめに</STRONG></FONT></TD>
+          </tr><tr>
+            <TD width="561"><IMG alt="" src="image/ba1p.gif" width="396" height="3"></TD>
+          </tr>
+        </TABLE>
+        <TABLE width="482" border="0" cellspacing="0" cellpadding="3">
+          <tr>
+            <TD height="87" align="center" width="299"><BR>
+            水戸の偕楽園近くの、ﾋﾟｱﾉ　<STRONG>音楽教室</STRONG>です。<BR>
+            <BR>
+            ピアノと触れ合いながら、音楽を奏でる喜び、また音色を味わい、音楽を創造する楽しさ、そして、聴いている人々をも、喜びと感動で包みこんであげられるという素晴らしい経験を、演奏をつうじて体験していってもらいたいと思います。<BR>
+            <BR>
+            　生徒様&nbsp; ご父兄様&nbsp; 講師が共に、人間的&nbsp; 音楽的に成長できる関係を理想としています。<BR>
+            <BR>
+            この教室を選んで良かった、そう思える満足度の高いピアノ教室を目指します。<BR>
+            <BR>
+            <A href="http://blogs.yahoo.co.jp/elogefelicitation">ブログ</A>、<A href="http://www.ono-piano.com/">ホームページ</A>で、ピアノ教室の様子や演奏会の情報を発信しています。<BR>
+            <BR>
+            </TD>
+            <TD height="87" width="142"><IMG src="image/ume.png" width="171" height="182" border="0"><SPAN class="comentfont"></SPAN></TD>
+          </tr>
+        </TABLE>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD width="530">★ピアノ教室をご検討のご父兄様へ</TD>
+          </tr></TABLE>
+         <TABLE border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD height="151" width="459"><IMG src="image2.jpg" width="162" height="145" border="0" align="right">幼少期から、大学でピアノの専門知識を学んだ講師が、お子様1人1人の個性に合わせてアドバイス致します。 この時期の適切な指導により、絶対音感の基礎能力が身につきます。この能力は、環境と指導により、音楽的才能として開花していきます。 何気なく始めたピアノレッスンが、数年後には、ピアノと共に将来の夢や希望に繋がっているかもしれません。<BR>
+            <A href="http://ono-piano.com/piano.class/lesson.html#一般">詳しくはこちら<BR>
+            </A></TD>
+          </tr></TABLE>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD width="530">★受験生、音大生の方へ</TD>
+          </tr></TABLE>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD width="500">現在、数名の音大受験生、音大生の指導を行っています。受験生には、志望校の傾向と対策をもとに、指導しています。<BR>
+            <A href="http://ono-piano.com/piano.class/lesson.html#受験">詳しくはこちら<BR>
+            </A></TD>
+          </tr></TABLE>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD width="530">★コンクール、オーディション、グレードテスト受験希望の方へ</TD>
+          </tr></TABLE>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD width="500">当教室の講師は、いくつかのコンクール審査を行った経験があります。また講師のコンクール経験を踏まえて、コンクール選びから、選曲、入賞するためのテクニック、音楽的表現のアドバイスを行っています。<BR>
+            <A href="http://ono-piano.com/piano.class/lesson.html#ｺﾝｸｰﾙ">
+            詳しくはこちら<BR>
+            </A></TD>
+          </tr></TABLE>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD width="530">★趣味で習いたい方へ</TD>
+          </tr></TABLE>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD width="500">あこがれの一曲が弾きたい、純粋にピアノが弾きたい気持ちを応援します。日常生活の中に、ピアノという心の潤いを取り入れてみては、いかがですか？<BR>
+            </TD>
+          </tr></TABLE>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD width="530">★幼稚園、保育園、小学校関係者へ</TD>
+          </tr></TABLE>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD width="500">学校カリキュラムに、リトミックや歌、ピアニカ(ピアノ)の授業を取り入れてみませんか？3人以上生徒さんが集まれば、出張レッスンにも対応致します。感性豊かな幼少期からの音楽的環境で、子供の無限の可能性の扉を開くことでしょう。 <BR>
+            　　　　　　</TD>
+          </tr></TABLE>
+       <table width="561" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><FONT color="#FF6699"><STRONG>☆生徒募集中</STRONG></FONT></td>
+          </tr><tr>
+            <td><img alt="" src="image/ba1p.gif" width="561" height="3"></td>
+          </tr></table>
+        <TABLE width="497" border="0" cellspacing="0" cellpadding="3">
+          <tr>
+            <TD width="308" height="160"><IMG src="image/sing.jpg" border="0" width="314" height="156">　</TD>
+            <TD width="177" height="160"><SPAN class="comentfont">　音楽教室入会をご希望の方や検討している方はお気軽にご相談ください。生徒さんのご希望や目標などをお伺いし、レッスンを進めていきたいと思います。またご希望の方には、無料体験レッスンを致します。<BR>
+            　まずは、<A href="http://www.ono-piano.com/piano.class/otoiawase.html">お電話</A>または<A href="http://www.ono-piano.com/piano.class/otoiawase.html">お問い合せフォーム</A>にて、ご連絡ください。</SPAN><BR>
+            </TD>
+          </tr></TABLE>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD width="527"><FONT color="#FF6699"><STRONG>☆What's New</STRONG></FONT></TD>
+          </tr><tr>
+            <TD width="527"><img alt="" src="image/ba1p.gif" width="561" height="3"></TD>
+          </tr></TABLE>
+        <TABLE border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <TD width="500">2015年1月18日　生徒さんによる音楽発表会を東海村　リコッティにて開催します。<BR>
+            2014年5月24日　<A href="http://blogs.yahoo.co.jp/elogefelicitation/68977899.html">講師がIMA定期演奏会</A>にﾋﾟｱﾉトリオで出演します。</TD>
+          </tr></TABLE>
+        <table width="100" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><IMG alt="" src="image/spacer.gif" width="1" height="10"></td>
+          </tr>
+        </table>
+        </TD>
+      </tr></table>
+    <table width="747" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><img alt="" src="image/obj_bottom_bar.gif" width="747" height="6"></td>
+      </tr></table>
+    <table border="0" align="center" cellpadding="5" cellspacing="0">
+      <tr>
+        <td align="center"><font size="1"><a href="index.html">HOME</a> / <a href="goaisatsu.html">ご挨拶</a> / <a href="profile.html">プロフィール</a> / <a href="lesson.html">レッスン</a> / <a href="access.html">アクセス</a> / <a href="otoiawase.html">お問い合せ</a></font></td>
+      </tr><tr>
+        <td align="center"><font size="1">Copyright(C) 2009 Chie Ono All Rights Reserved.</font></td>
+      </tr></table>
+    </td>
+    <td width="24" background="image/bg_right.gif"><img alt="" src="image/bg_right.gif" width="24" height="32"></td>
+  </tr></table>
+</body>
+</html>

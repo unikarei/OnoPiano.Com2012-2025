@@ -1,0 +1,180 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ja">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<!--
+<meta name="小野 ピアノ教室 茨城 水戸" content="水戸の偕楽園近くの、ピアノ教室です。教室入会をご希望の方や検討している方はお気軽にご相談ください。">
+-->
+<meta name="keywords" content="小野,ピアノ教室,水戸,茨城">
+<META http-equiv="Content-Style-Type" content="text/css">
+<META name="GENERATOR" content="IBM WebSphere Studio Homepage Builder Version 13.0.0.0 for Windows">
+<title>ご挨拶｜小野　ピアノ教室　水戸</title>
+<meta name="description" content="小野ピアノ教室｜茨城県水戸市の個人レッスンを行う小野ピアノ教室オーナーによる挨拶。">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--HPB_SCRIPT_ROV_50
+//
+//  Licensed Materials - Property of IBM
+//  5724I83
+//  (C) Copyright IBM Corp. 1995, 2007 All Rights Reserved.
+//
+
+// HpbImgPreload:
+//
+function HpbImgPreload()
+{
+var appVer=parseInt(navigator.appVersion);
+var isNC=false,isN6=false,isIE=false;
+if (document.all && appVer >= 4) isIE=true; else
+if (document.getElementById && appVer > 4) isN6=true; else
+if (document.layers && appVer >= 4) isNC=true;
+if (isNC||isN6||isIE)
+{
+if (document.images)
+{
+var imgName = HpbImgPreload.arguments[0];
+var cnt;
+swImg[imgName] = new Array;
+for (cnt = 1; cnt < HpbImgPreload.arguments.length; cnt++)
+{
+swImg[imgName][HpbImgPreload.arguments[cnt]] = new Image();
+swImg[imgName][HpbImgPreload.arguments[cnt]].src = HpbImgPreload.arguments[cnt];
+}
+}
+}
+}
+// HpbImgFind:
+//
+function HpbImgFind(doc, imgName)
+{
+for (var i=0; i < doc.layers.length; i++)
+{
+var img = doc.layers[i].document.images[imgName];
+if (!img) img = HpbImgFind(doc.layers[i], imgName);
+if (img) return img;
+}
+return null;
+}
+// HpbImgSwap:
+//
+function HpbImgSwap(imgName, imgSrc)
+{
+var appVer=parseInt(navigator.appVersion);
+var isNC=false,isN6=false,isIE=false;
+if (document.all && appVer >= 4) isIE=true; else
+if (document.getElementById && appVer > 4) isN6=true; else
+if (document.layers && appVer >= 4) isNC=true;
+if (isNC||isN6||isIE)
+{
+if (document.images)
+{
+var img = document.images[imgName];
+if (!img) img = HpbImgFind(document, imgName);
+if (img) img.src = imgSrc;
+}
+}
+}
+var swImg; swImg=new Array;
+//-->
+</script><script language="JavaScript">
+<!--HPB_SCRIPT_PLD_50
+HpbImgPreload('_HPB_ROLLOVER1', 'image/bt_goaisatsu_off.gif', 'image/bt_goaisatsu_on.gif');
+HpbImgPreload('_HPB_ROLLOVER2', 'image/bt_profile_off.gif', 'image/bt_profile_on.gif');
+HpbImgPreload('_HPB_ROLLOVER3', 'image/bt_lesson_off.gif', 'image/bt_lesson_on.gif');
+HpbImgPreload('_HPB_ROLLOVER4', 'image/bt_access_off.gif', 'image/bt_access_on.gif');
+HpbImgPreload('_HPB_ROLLOVER5', 'image/bt_otoiawase_off.gif', 'image/bt_otoiawase_on.gif');
+//-->
+</script></head>
+<body>
+<table width="795" height="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr valign="top"> 
+<td width="24" background="image/bg_left.gif"><img alt="" src="image/bg_left.gif" width="24" height="32"></td>
+<td bgcolor="#FFFFFF"><table width="747" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td width="168" align="center" background="image/bg_title.gif" class="sitetitle"><table width="166" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top"><a href="index.html"><img src="image/obj_sitetitle01.gif" alt="Homeへ" width="168" height="56" border="0"></a></td>
+</tr>
+<tr>
+<td class="sitetitle" height="43" align="center" valign="top" background="image/bg_sitetitle.gif"><a href="index.html"><img src="image/obj_sitetitle02.gif" alt="AWDLP210-017" width="168" height="43" border="0"></a></td>
+</tr>
+</table></td>
+<td width="582"><table width="579" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td background="image/obj_head.jpg"><table width="579" height="75" border="0" cellpadding="5" cellspacing="0">
+<tr> 
+<TD align="center" valign="top"><font color="#FFFFFF" size="1"><br>
+                <B><FONT size="+4" style="font-size : 310%;" face="游明朝 Light" color="#ffffff">小野　ピアノ教室</FONT></B> </font></TD>
+</tr>
+</table></td>
+</tr>
+<tr> 
+<td background="image/obj_head_menu.gif"><table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><A href="goaisatsu.html" id="_HPB_ROLLOVER1" onmouseout="HpbImgSwap('_HPB_ROLLOVER1', 'image/bt_goaisatsu_off.gif');" onmouseover="HpbImgSwap('_HPB_ROLLOVER1', 'image/bt_goaisatsu_on.gif');"><IMG src="image/bt_goaisatsu_off.gif" alt="ご挨拶" width="115" height="24" border="0" name="_HPB_ROLLOVER1"></A></td>
+<td><img alt="" src="image/bt1p.gif" width="1" height="24"></td>
+<td><A href="profile.html" id="_HPB_ROLLOVER2" onmouseout="HpbImgSwap('_HPB_ROLLOVER2', 'image/bt_profile_off.gif');" onmouseover="HpbImgSwap('_HPB_ROLLOVER2', 'image/bt_profile_on.gif');"><IMG src="image/bt_profile_off.gif" alt="プロフィール" width="115" height="24" border="0" name="_HPB_ROLLOVER2"></A></td>
+<td><img alt="" src="image/bt1p.gif" width="1" height="24"></td>
+<td><A href="lesson.html" id="_HPB_ROLLOVER3" onmouseout="HpbImgSwap('_HPB_ROLLOVER3', 'image/bt_lesson_off.gif');" onmouseover="HpbImgSwap('_HPB_ROLLOVER3', 'image/bt_lesson_on.gif');"><IMG src="image/bt_lesson_off.gif" alt="レッスン" width="115" height="24" border="0" name="_HPB_ROLLOVER3"></A></td>
+<td><img alt="" src="image/bt1p.gif" width="1" height="24"></td>
+<td><A href="access.html" id="_HPB_ROLLOVER4" onmouseout="HpbImgSwap('_HPB_ROLLOVER4', 'image/bt_access_off.gif');" onmouseover="HpbImgSwap('_HPB_ROLLOVER4', 'image/bt_access_on.gif');"><IMG src="image/bt_access_off.gif" alt="アクセス" width="115" height="24" border="0" name="_HPB_ROLLOVER4"></A></td>
+<td><img alt="" src="image/bt1p.gif" width="1" height="24"></td>
+<td><A href="otoiawase.html" id="_HPB_ROLLOVER5" onmouseout="HpbImgSwap('_HPB_ROLLOVER5', 'image/bt_otoiawase_off.gif');" onmouseover="HpbImgSwap('_HPB_ROLLOVER5', 'image/bt_otoiawase_on.gif');"><IMG src="image/bt_otoiawase_off.gif" alt="お問い合せ" width="115" height="24" border="0" name="_HPB_ROLLOVER5"></A></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width="747" border="0" cellspacing="0" cellpadding="0">
+<tr align="center" valign="top"> 
+<td width="167" background="image/bg_pink.gif"><BR>
+        <BR>
+        <IMG src="image/WhiteRose/Gakufu06c.jpg" width="157" height="260" border="0"><BR>
+        </td>
+<td width="580">
+        <TABLE width="580" border="0" cellspacing="0" cellpadding="0" bgcolor="#fef1fa">
+<tr>
+<td><h1><img alt="水戸市|小野ピアノ教室代表|小野智恵のご挨拶" src="image/ba_goaisatsu.gif" width="272" height="52"></h1></td>
+<td></td>
+</tr>
+</TABLE>
+        <table width="560" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><IMG src="image/chie.jpg" border="0" width="156" height="247" align="right"><BR>
+  <FONT face="ＭＳ ゴシック" size="3"><SPAN style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">
+            　”ピアノ・音楽って楽しい”そう思えるレッスンを心がけ、一人一人が意欲的に自ら学ぶ姿勢を育てていきます。はじめてピアノを習いたい方でも大丈夫。初歩から親切ていねいにご指導致します。専門的に習いたい方やコンクール・グレード受験希望の方など目的に合わせて、レッスン致します。フランス留学に興味のある方には、経験を生かしアドバイス致します。<BR>
+            <BR>
+            　水戸で教え始めて早、数年が経ちました。生徒さんのご父兄様からは、子供が　‘ピアニストになりたいと短冊に願い事を書いていたんです‘　とか‘学校で歌の伴奏を頼まれて、ピアノがひけるのが、本人の自信につながり、本番を楽しみにしているんです‘というお言葉を頂くと、教えてきて本当に良かったなと思います。<BR>
+            <BR>
+            　私が、小さい頃、演奏会をききにいって、‘わ～素敵☆私もいつかはあんなドレスをきて、演奏できたらいいな～‘　そんな憧れや夢が、今の自分をつくっているのだと思います。<BR>
+            <BR>
+            だから音楽って、音を楽しむと書くのですよね。多くの経験と感動が自分の魂を成長できる、そんなポリシーをもったピアノ指導者でありたいと思っております。<BR>
+            <BR>
+            　さぁ～豊かなイメージと優しい感性を育てるピアノで、夢のある音楽の旅に出かけてみましょう。</td>
+  </SPAN><FONT>
+</tr>
+</table>
+        </td>
+</tr>
+</table>
+<table width="747" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td><img alt="" src="image/obj_bottom_bar.gif" width="747" height="6"></td>
+</tr>
+</table>
+<table border="0" align="center" cellpadding="5" cellspacing="0">
+<tr> 
+<td align="center"><font size="1"><a href="index.html">HOME</a> / <a href="goaisatsu.html">ご挨拶</a> 
+/ <a href="profile.html">プロフィール</a> / <a href="lesson.html">レッスン</a>  
+/ <a href="access.html">アクセス</a> / <a href="otoiawase.html">お問い合せ</a></font></td>
+</tr>
+<tr> 
+<td align="center"><font size="1">Copyright(C) 20xx DDN All Rights Reserved.（記述例です）</font></td>
+</tr>
+</table></td>
+<td width="24" background="image/bg_right.gif"><img alt="" src="image/bg_right.gif" width="24" height="32"></td>
+</tr>
+</table>
+</body>
+</html>
